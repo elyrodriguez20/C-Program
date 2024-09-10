@@ -1,0 +1,29 @@
+Please enter the value for the following variables...
+Enter the ID: 555
+Enter the full name:safoora fatima
+Enter the gpa:3.56
+
+Here are the values entered
+Student ID: 555
+Student name:   safoora fatima
+Length of the student name is:    14
+Student GPA:    3.56
+
+Student first name:           safoora
+Student last name:            fatima
+My sister's name sara
+Using concaenation:   safoora fatima
+Before swap:
+ first: one
+second:two
+
+
+After swap;
+ first:two
+ second:one
+
+
+After swap:
+ first:safoora
+fname:two
+ 
