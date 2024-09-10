@@ -1,2 +1,0 @@
-Please enter the amount of CD: 100
-At the end of the year the new balance is : 103.50
