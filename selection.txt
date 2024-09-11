@@ -1,0 +1,47 @@
+// Exactly 100
+please enter a vaulable for score: 100
+Here is the value you entered for score: 100
+Score is perfect !!!
+
+//Less than 100.
+ please enter a vaulable for score: 85
+Here is the value you entered for score: 85
+
+//Says Bravo!
+please enter a vaulable for score: 100
+Here is the value you entered for score: 100
+Score is perfect !!!
+Bravo!
+
+//Score is even!
+please enter a vaulable for score: 80  
+Here is the value you entered for score: 80
+
+ Score is even!
+
+ //Score is odd!
+ please enter a vaulable for score: 89
+Here is the value you entered for score: 89
+
+ Score is odd!
+
+  //Grade A
+  please enter a vaulable for score: 100
+Here is the value you entered for score: 100
+Letter Grade is A
+ //Grade B
+ please enter a vaulable for score: 85
+Here is the value you entered for score: 85
+Letter Grade is B
+//Grade C
+please enter a vaulable for score: 72
+Here is the value you entered for score: 72
+Letter Grade is C
+//Grade D
+please enter a vaulable for score: 66
+Here is the value you entered for score: 66
+Letter Grade is D
+//Grade F
+please enter a vaulable for score: 35
+Here is the value you entered for score: 35
+Letter Grade is F
